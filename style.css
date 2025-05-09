@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color:dodgerblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+} 
+
+nav a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.imagem {
+    border-radius: 50%;
+    text-align: center;
+   
+    
+}
